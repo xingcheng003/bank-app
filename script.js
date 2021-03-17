@@ -343,3 +343,9 @@ slider();
 // document.querySelector('.nav').addEventListener('click', function (e) {
 //   this.style.backgroundColor = randomColor();
 // });
+
+const newFeature = function () {
+  console.log('welcome to the application');
+};
+
+newFeature();
